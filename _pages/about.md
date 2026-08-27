@@ -28,4 +28,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/Headshot.jpg" alt="William Polkowski" style="width:200px;"/>
