@@ -3,7 +3,7 @@ title: "William Polkowski"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.7"
   overlay_image: /assets/img/Gears.jpg
   actions:
     - label: "My Projects"
