@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "William Polkowski is an engineer with a passion for design. His area of expertise is 3D printing and surgical implant design."
+excerpt: "William (Will) Polkowski is an engineering undergraduate with a passion for digital fabrication. His area of expertise is 3D printing and surgical implant design."
 feature_row:
  # - image_path: assets/img/CNC-Mill-Thumbnail.jpg
  #   alt: "CNC Mill"
