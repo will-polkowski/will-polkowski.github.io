@@ -19,7 +19,7 @@ gallery:
 * **LED State Indicator** The syringe pump has an LED indicator light that displays what state the pump is currently in. Green indicates that the syringe pump is actively running, yellow indicates that the pump is paused, and red indicates that the loaded syringe is empty.  
 
 # CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028111faa711e61596051?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Instructions for Use
 
