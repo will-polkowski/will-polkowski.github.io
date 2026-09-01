@@ -21,9 +21,9 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028111faa711e61596051?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Required Off-the-Shelf Parts
+# Required Parts
 
-| Part      | Quantity |
+| Off-The-Shelf Part      | Quantity |
 | ----------- | ----------- |
 |  M5x8mm Bolt     |    10    |
 |  M5 Tee Nut  |    10     |
@@ -48,7 +48,16 @@ gallery:
 |   [Limit Switch](https://www.amazon.com/gp/product/B07X142VGC)    |    1    |
 |  RGB Common Cathode LED  |     1    |
 |  [Momentary Push Button](https://www.amazon.com/dp/B08SKJ6V7Z?lv=shuf&social_share=cm_sw_r_cp_ud_dp_31RXPM7MRDVYD95T6Z81&channelId=751&ref_=cm_sw_r_cp_ud_dp_31RXPM7MRDVYD95T6Z81&plpRedirect=mhFallback&th=1)  |     2    |
+
 Note: LCD screen is pictured in the model and images but has no function due to time constraints of the project.
+
+| 3D Printed Part     | Quantity |
+| ----------- | ----------- |
+|      |    1    |
+|    |    1     |
+|      |    1    |
+|    |    1     |
+|      |    1    |
 
 # Instructions for Use
 
