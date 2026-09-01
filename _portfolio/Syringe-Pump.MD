@@ -51,13 +51,15 @@ gallery:
 
 Note: LCD screen is pictured in the model and images but has no function due to time constraints of the project.
 
-| 3D Printed Part     | Quantity |
+| 3D Printed Part (All qty of 1)     | Material |
 | ----------- | ----------- |
-|      |    1    |
-|    |    1     |
-|      |    1    |
-|    |    1     |
-|      |    1    |
+|   Enclosure Body   |    PLA   |
+|  Enclosure Lid  |    PLA     |
+|   Motor Mounting Plate   |    ABS   |
+|  Syringe Mounted End Support  |    PLA    |
+|   Basic End Support   |    PLA    |
+|   Carriage   |    PLA   |
+|   LED Loop Attachment   |    TPU   |
 
 # Instructions for Use
 
