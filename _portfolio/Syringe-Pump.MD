@@ -21,6 +21,21 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028111faa711e61596051?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Required Off-the-Shelf Parts
+
+| Part      | Quantity |
+| ----------- | ----------- |
+|  M5x8mm Bolt     |    10    |
+|  M5 Tee Nut  |    10     |
+|   M5x16mm Bolt    |    4    |
+|  M5 Threaded Heat Insert  |     4    |
+|   M3x10mm Bolt    |    4    |
+|  M3x8mm Thread Forming Screw  |     4    |
+|   M2.5x8mm Thread Forming Screw    |    2    |
+|  F68822 Flanged Ball Bearing  |     2    |
+| [Linear Rod Collar Lock](https://www.amazon.com/10PCS-Shaft-Collar-Aluminum-Linear/dp/B0C46G8G1R/ref=asc_df_B0C46G8G1R?tag=bingshoppinga-20&linkCode=df0&hvadid=80814314503139&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=83973&hvtargid=pla-4584413793770717&hvocijid=17867946872889471524-B0C46G8G1R-&hvexpln=0&th=1)      |    2    |
+|  [Lead Screw Collar Lock](https://www.amazon.com/Shaft-Collar-Aluminum-Alloy-Linear/dp/B0BFL3ZD6D/ref=asc_df_B0BFL3ZD6D?tag=bingshoppinga-20&linkCode=df0&hvadid=80814314503139&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=83973&hvtargid=pla-4584413793532618&hvocijid=12744195799096762271-B0BFL3ZD6D-&hvexpln=0&th=1)  |     2    |
+
 # Instructions for Use
 
 1. Plug the system into a wall outlet. This automatically turns on the system making it ready for use.
