@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/Syringe Pump Render.png
 gallery:
   - image_path: /assets/img/Syringe Pump Mount.jpg
-  - image_path: /assets/img/Syringe Pump Open.jpg
+  - image_path: /assets/img/Syringe Pump Open (Fixed).png
   - image_path: /assets/img/Syringe Pump Wiring.png
    
 ---
