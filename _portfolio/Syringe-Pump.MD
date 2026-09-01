@@ -7,7 +7,7 @@ header:
 gallery:
   - image_path: /assets/img/Syringe Pump Mount.jpg
   - image_path: /assets/img/Syringe Pump Open.jpg
-  - image_path: /assets/img/Syringe Pump Wiring.jpg
+  - image_path: /assets/img/Syringe Pump Wiring.png
    
 ---
 
