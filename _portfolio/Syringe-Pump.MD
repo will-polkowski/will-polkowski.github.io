@@ -33,8 +33,22 @@ gallery:
 |  M3x8mm Thread Forming Screw  |     4    |
 |   M2.5x8mm Thread Forming Screw    |    2    |
 |  F68822 Flanged Ball Bearing  |     2    |
-| [Linear Rod Collar Lock](https://www.amazon.com/10PCS-Shaft-Collar-Aluminum-Linear/dp/B0C46G8G1R/ref=asc_df_B0C46G8G1R?tag=bingshoppinga-20&linkCode=df0&hvadid=80814314503139&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=83973&hvtargid=pla-4584413793770717&hvocijid=17867946872889471524-B0C46G8G1R-&hvexpln=0&th=1)      |    2    |
-|  [Lead Screw Collar Lock](https://www.amazon.com/Shaft-Collar-Aluminum-Alloy-Linear/dp/B0BFL3ZD6D/ref=asc_df_B0BFL3ZD6D?tag=bingshoppinga-20&linkCode=df0&hvadid=80814314503139&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=83973&hvtargid=pla-4584413793532618&hvocijid=12744195799096762271-B0BFL3ZD6D-&hvexpln=0&th=1)  |     2    |
+| [Linear Rod Lock Collar](https://www.amazon.com/10PCS-Shaft-Collar-Aluminum-Linear/dp/B0C46G8G1R/ref=asc_df_B0C46G8G1R?tag=bingshoppinga-20&linkCode=df0&hvadid=80814314503139&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=83973&hvtargid=pla-4584413793770717&hvocijid=17867946872889471524-B0C46G8G1R-&hvexpln=0&th=1)      |    2    |
+|  [Lead Screw Lock Collar](https://www.amazon.com/Shaft-Collar-Aluminum-Alloy-Linear/dp/B0BFL3ZD6D/ref=asc_df_B0BFL3ZD6D?tag=bingshoppinga-20&linkCode=df0&hvadid=80814314503139&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=83973&hvtargid=pla-4584413793532618&hvocijid=12744195799096762271-B0BFL3ZD6D-&hvexpln=0&th=1)  |     2    |
+|  [Lead Screw w/ Nut](https://www.amazon.com/dp/B07R1H5ZMV?lv=shuf&psc=1&_encoding=UTF8&channelId=701&ref_=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1&plpRedirect=mhFallback)  |     1    |
+|   1/4" x 8mm Flexible Coupling    |    1    |
+|  200mm Rod w/ 8mm Diameter  |    1     |
+|  LM8UU Linear Bearing for 8mm Diameter Rod  |     1    |
+|    NEMA 17 Stepper Motor   |    1    |
+|  [AC-DC Power Supply](https://www.amazon.com/dp/B005T9HGLI?lv=shuf&psc=1&_encoding=UTF8&channelId=701&ref_=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR&plpRedirect=mhFallback)  |     1    |
+| [Arduino Uno](https://www.amazon.com/dp/B007R9TUJE?lv=shuf&channelId=701&ref_=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ&plpRedirect=mhFallback)   |    1     |
+|   A4988 Stepper Driver    |     1   |
+|  [Latching Button](https://www.amazon.com/dp/B07XTBL1NP?smid=A2NNH5C5IP9N3O&linkCode=sl1&tag=drd0cf-20&linkId=43b42a7cb2a088ebd85d65cb9da46725&language=en_US&ref_=as_li_ss_tl&th=1)  |     1    |
+|  Small Breadboard  |     1    |
+|   [Limit Switch](https://www.amazon.com/gp/product/B07X142VGC)    |    1    |
+|  RGB Common Cathode LED  |     1    |
+|  [Momentary Push Button](https://www.amazon.com/dp/B08SKJ6V7Z?lv=shuf&social_share=cm_sw_r_cp_ud_dp_31RXPM7MRDVYD95T6Z81&channelId=751&ref_=cm_sw_r_cp_ud_dp_31RXPM7MRDVYD95T6Z81&plpRedirect=mhFallback&th=1)  |     2    |
+Note: LCD screen is pictured in the model and images but has no function due to time constraints of the project.
 
 # Instructions for Use
 
