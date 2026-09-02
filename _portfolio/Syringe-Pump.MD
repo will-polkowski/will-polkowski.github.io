@@ -21,6 +21,17 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028111faa711e61596051?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Instructions for Use
+
+1. Plug the system into a wall outlet. This automatically turns on the system making it ready for use.
+2. Use forward and backwards buttons to position the carriage to fit size of syringe.
+3. Insert the syringe into the holder by sliding it all the way into the appropriate slot on the end support and attach the pump to the carriage slot.
+4. Press the latching button to start the pump.
+5. To pause the pump at any time, press the latching button again.
+6. During operation, monitor the system to ensure proper fluid delivery.
+7. When the syringe reaches the end, the limit switch will be triggered, automatically stopping the motor.
+8. After the pump stops, remove the empty syringe and replace it if needed.
+
 # Required Parts
 
 | Off-The-Shelf Part      | Quantity |
@@ -61,15 +72,6 @@ Note: LCD screen is pictured in the model and images but has no function due to 
 |   Carriage   |    PLA   |
 |   LED Loop Attachment   |    TPU   |
 
-# Instructions for Use
-
-1. Plug the system into a wall outlet. This automatically turns on the system making it ready for use.
-2. Use forward and backwards buttons to position the carriage to fit size of syringe.
-3. Insert the syringe into the holder by sliding it all the way into the appropriate slot on the end support and attach the pump to the carriage slot.
-4. Press the latching button to start the pump.
-5. To pause the pump at any time, press the latching button again.
-6. During operation, monitor the system to ensure proper fluid delivery.
-7. When the syringe reaches the end, the limit switch will be triggered, automatically stopping the motor.
-8. After the pump stops, remove the empty syringe and replace it if needed.
+# [Arduino Code](https://github.com/will-polkowski/will-polkowski.github.io/blob/main/assets/code/Syringe-Pump-Code.ino)
 
 {% include gallery caption="Syringe Pump" %}
