@@ -10,17 +10,15 @@ header:
       url: "/portfolio/"
 excerpt: "William (Will) Polkowski is an engineering undergraduate with a passion for digital fabrication. His area of expertise is 3D printing and surgical implant design."
 feature_row:
- # - image_path: assets/img/CNC-Mill-Thumbnail.jpg
- #   alt: "CNC Mill"
- #   title: "Custom CNC Milling Machine"
- #   excerpt: "Built for fabricating aluminum and steel parts."
- # - image_path: assets/img/Plasma-Cutter-Banner.jpg
- #   alt: "placeholder image 2"
- #   title: "DIY Plasma Cutter"
- #   excerpt: "A hot plasma stream slices through sheet metal."
- # - image_path: assets/img/Zidex-Thumbnail.jpg
- #   title: "Bespoke IDEX 3D Printer"
- #   excerpt: "Multimaterial printing. "
+  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+    title: "Voron FFF Printer"
+    excerpt: "Fabricates filament 3D prints out of PLA, ABS, TPU, and more."
+  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+    title: "DIY Phone Case"
+    excerpt: "A phone case that was 3D printed using TPU."
+  - image_path: assets/img/Zidex-Thumbnail.jpg
+    title: "Linear Actuator"
+    excerpt: "A Fusion assembly of a linear actuator."
 ---
 
 {% include feature_row %}
