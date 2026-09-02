@@ -21,7 +21,7 @@ Will is a current sophomore at Vanderbilt University working towards a major in 
 
 ## Technical Skills
 
-Will can use several fabrication tools to turn 3D models into real-life parts. Will has experience with the following additive manufacturing technologies:
+Will's skills include technical communication, mig welding, and CAD design. He can use several fabrication tools to turn 3D models into real-life parts. Will has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
 
