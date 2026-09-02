@@ -8,6 +8,12 @@ gallery:
   - image_path: /assets/img/Syringe Pump Mount.jpg
   - image_path: /assets/img/Syringe Pump Open.png
   - image_path: /assets/img/Syringe Pump Wiring.png
+
+# Table of Conents
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
+toc_icon: bars
    
 ---
 
@@ -72,6 +78,8 @@ Note: LCD screen is pictured in the model and images but has no function due to 
 |   Carriage   |    PLA   |
 |   LED Loop Attachment   |    TPU   |
 
-# [Arduino Code](https://github.com/will-polkowski/will-polkowski.github.io/blob/main/assets/code/Syringe-Pump-Code.ino)
+## [Arduino Code](https://github.com/will-polkowski/will-polkowski.github.io/blob/main/assets/code/Syringe-Pump-Code.ino)
+
+# Image Gallery
 
 {% include gallery caption="Syringe Pump" %}
