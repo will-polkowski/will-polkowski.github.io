@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "An automated syringe pump capable of creating a steady volumetric flow rate of 1.0 mL/min from a source syringe of either 10 mL or 20 mL."
 header:
-  image: assets/img/Syringe-Pump-Real.png
+  image: /assets/img/Syringe-Pump-Real.png
   teaser: /assets/img/Syringe Pump Render.png
 gallery:
   - image_path: /assets/img/Syringe Pump Mount.jpg
