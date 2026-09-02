@@ -26,3 +26,4 @@ Will's skills include technical communication, mig welding, and CAD design. He c
 * Fused Filament Fabrication (FFF)
 
 ## Publications and Awards
+None at this time
