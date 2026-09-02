@@ -15,7 +15,7 @@ Will is a current sophomore at Vanderbilt University working towards a major in 
 ## Work History
 
 * Hip implant design with biomedical engineering department at Vanderbilt University (August 2026-present)
-* Welding Teach Assistant for statics course at Vanderbilt University (September 2026-October 2026)
+* Welding Teaching Assistant for statics course at Vanderbilt University (September 2026-October 2026)
 * Private high school tutor (September 2026-present)
 * CAVA team member (February 2026-August 2026)
 
