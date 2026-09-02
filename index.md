@@ -16,7 +16,7 @@ feature_row:
   - image_path: assets/img/Phone Case.jpg
     title: "DIY Phone Case"
     excerpt: "A phone case that was 3D printed using TPU."
-  - image_path: assets/img/Linear Actuator Rendering 2.PNG
+  - image_path: assets/img/Linear Actuator Rendering.PNG
     title: "Linear Actuator"
     excerpt: "A Fusion rendering of a linear actuator assembly."
 ---
