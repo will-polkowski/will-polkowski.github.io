@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "William (Will) Polkowski is an engineering undergraduate with a passion for digital fabrication. His area of expertise is 3D printing and surgical implant design."
+excerpt: "William (Will) Polkowski is an engineering undergraduate with a passion for digital fabrication. This page hosts a collection of his digital fabrication projects."
 feature_row:
   - image_path: assets/img/Voron.jpg
     title: "Voron FFF Printer"
