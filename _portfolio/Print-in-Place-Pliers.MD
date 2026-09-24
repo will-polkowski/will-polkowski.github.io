@@ -20,25 +20,26 @@ toc_icon: bars
 ---
 
 # Overview 
-
 Many FFF designs contain multiple components with moving parts. While these parts can be printed separately and put together afterwards using fasteners or part geometry, sometimes these designs can be printed in a single print. These designs are called print-in-place models, and they are much easier to fabricate because they don't require any assembly after they're printed. Print-in-place designs are created by designing a single assembly with interlocking joints and then printing the assembly in such a way that the components remain stationary until they are removed from the build plate. Print-in-place designs have many cosmetic and practical uses (see examples below). Generally, print-in-place designs work better for materials with similar mechanical properties and surface tensions because they adhere to each other better. However, by using intentional part geometry, multi-material objects can be printed in place.  
 
 The goal of this project was to design multi-material, print-in-place pliers that can grip and pick up through-hole resistors. The pliers were required to include a flexible spring component that returns them to a resting open position and a rigid component for support. To achieve this, TPU was used for the flexible components, and PLA was used for the rigid components. These two materials have very different surface tensions and mechanical properties, so part geometry was important to make them print-in-place.  
 
-
 **Print-in-place examples** 
 
 [Fidget Cube](https://www.thingiverse.com/thing:230139) 
+
 [Dragon](https://www.thingiverse.com/thing:6446798) 
+
 [Ball Bearing](https://www.thingiverse.com/thing:520238) 
 
- 
+
+
 # Demonstration 
 ![Pliers GIF](assets/img/Pliers_GIF.GIF) 
 
 
-# Features 
 
+# Features 
 * **Print-in-Place Multi-Material Design** The pliers were designed with the ability to print all components using a single, multi-material printer in a single print. When printed like this, they can be used without having to assemble any pieces. Despite this, the final version was printed in pieces due to printer constraints. 
 * **Flexible TPU Jaws** The plier jaws are designed to be printed out of flexible TPU 95A. When the trigger is pulled, the jaws bend to a closed position, and when the trigger is released, they return to an open position. Using this approach integrates the spring component needed for the plier to return to open position into the jaw design, while simultaneously providing grip for the jaws.  
 * **PLA Handle and Trigger System** The handle and trigger of the pliers are designed to be printed out of PLA for comfort and stability. The handle includes curved contours to allow for multiple grip preferences. 
@@ -47,13 +48,14 @@ The goal of this project was to design multi-material, print-in-place pliers tha
 * **Thicker Jaws for Stability** The jaw thickness was increased from the first iteration of the design to allow for stabler handling of the pliers. This also allows it to pick up objects that are a little larger than resistors as well. 
 
 
+
 # CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028117c310205d326b193?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> 
 
  
 
 # Specifications 
-| Dimension | Value | Unit | 
+| Dimension | Value | Unit |
 | ----------- | ----------- | ----------- | 
 |   Plier Height   |    18     |   mm   | 
 |  Jaw Length  |    140    |   mm   | 
