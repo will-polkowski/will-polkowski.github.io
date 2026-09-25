@@ -7,9 +7,9 @@ header:
 gallery:
   - image_path: /assets/img/Pliers_Closed.JPG
   - image_path: /assets/img/Pliers_Jaws.JPG
-  - image_path: /assets/img/Pliers_Dovetail_It1.JPG
-  - image_path: /assets/img/Pliers_Dovetail_It2.JPG
-  - image_path: /assets/img/Pliers_It1.JPG
+  - image_path: /assets/img/Plier_Dovetail_It1.JPG
+  - image_path: /assets/img/Plier_Dovetail_It2.JPG
+  - image_path: /assets/img/Plier_It1.JPG
 
 # Table of Conents
 toc: true
