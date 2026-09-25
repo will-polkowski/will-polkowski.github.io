@@ -26,11 +26,8 @@ Many FFF designs contain multiple components with moving parts. While these part
 The goal of this project was to design multi-material, print-in-place pliers that can grip and pick up through-hole resistors. The pliers were required to include a flexible spring component that returns them to a resting open position and a rigid component for support. To achieve this, TPU was used for the flexible components, and PLA was used for the rigid components. These two materials have very different surface tensions and mechanical properties, so part geometry was important to make them print-in-place.  
 
 **Print-in-place examples:** 
-
-[Fidget Cube](https://www.thingiverse.com/thing:230139) 
-
-[Dragon](https://www.thingiverse.com/thing:6446798) 
-
+[Fidget Cube](https://www.thingiverse.com/thing:230139),  
+[Dragon](https://www.thingiverse.com/thing:6446798), and  
 [Ball Bearing](https://www.thingiverse.com/thing:520238) 
 
 
