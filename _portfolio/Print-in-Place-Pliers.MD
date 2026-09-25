@@ -19,17 +19,14 @@ toc_icon: bars
    
 ---
 
+
 # Overview 
 Many FFF designs contain multiple components with moving parts. While these parts can be printed separately and put together afterwards using fasteners or part geometry, sometimes these designs can be printed in a single print. These designs are called print-in-place models, and they are much easier to fabricate because they don't require any assembly after they're printed. Print-in-place designs are created by designing a single assembly with interlocking joints and then printing the assembly in such a way that the components remain stationary until they are removed from the build plate. Print-in-place designs have many cosmetic and practical uses (see examples below). Generally, print-in-place designs work better for materials with similar mechanical properties and surface tensions because they adhere to each other better. However, by using intentional part geometry, multi-material objects can be printed in place.  
 
 The goal of this project was to design multi-material, print-in-place pliers that can grip and pick up through-hole resistors. The pliers were required to include a flexible spring component that returns them to a resting open position and a rigid component for support. To achieve this, TPU was used for the flexible components, and PLA was used for the rigid components. These two materials have very different surface tensions and mechanical properties, so part geometry was important to make them print-in-place.  
-
-**Print-in-place examples** 
-
+**Print-in-place examples:** 
 [Fidget Cube](https://www.thingiverse.com/thing:230139) 
-
 [Dragon](https://www.thingiverse.com/thing:6446798) 
-
 [Ball Bearing](https://www.thingiverse.com/thing:520238) 
 
 
@@ -54,6 +51,7 @@ The goal of this project was to design multi-material, print-in-place pliers tha
 
  
 
+
 # Specifications 
 
 | Dimension | Value | Unit |
@@ -67,7 +65,8 @@ The goal of this project was to design multi-material, print-in-place pliers tha
 |    Trigger Inner Diameter    |    38.4    |   mm   | 
 |   Attack Angle   |    30    |    degrees    | 
 
- 
+
+
 # Print Settings 
 ## TPU Components 
 
@@ -86,6 +85,7 @@ The goal of this project was to design multi-material, print-in-place pliers tha
 |   Infill   |   15%; gyroid     |   default  | 
 |   Speed   |    70 mm/s     |   smoother surface   | 
 |   Nozzle Diameter   |     0.6 mm    |   default   | 
+
 
 
 # Image Gallery 
