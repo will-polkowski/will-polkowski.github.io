@@ -89,3 +89,5 @@ The goal of this project was to design multi-material, print-in-place pliers tha
 
 
 # Image Gallery 
+
+{% include gallery caption="Syringe Pump" %}
