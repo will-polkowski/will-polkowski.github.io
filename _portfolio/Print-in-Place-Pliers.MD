@@ -55,6 +55,7 @@ The goal of this project was to design multi-material, print-in-place pliers tha
  
 
 # Specifications 
+
 | Dimension | Value | Unit |
 | ----------- | ----------- | ----------- | 
 |   Plier Height   |    18     |   mm   | 
@@ -69,6 +70,7 @@ The goal of this project was to design multi-material, print-in-place pliers tha
  
 # Print Settings 
 ## TPU Components 
+
 | Changed Setting | Value |  Reason for Change|  
 | ----------- | ----------- | ----------- | 
 |   Perimeters   |    3     |   sturdier jaws; stronger dovetail   |  
@@ -76,7 +78,8 @@ The goal of this project was to design multi-material, print-in-place pliers tha
 |   Speed   |    25 mm/s     |   smoother surface   | 
 |   Nozzle Diameter   |     0.6 mm    |   default   | 
 
-## PLA Components 
+## PLA Components
+
 | Changed Setting | Value |  Reason for Change | 
 | ----------- | ----------- | ----------- | 
 |   Perimeters   |    3     |   default   |  
