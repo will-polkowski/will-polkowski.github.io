@@ -2,14 +2,14 @@
 title: "Print-in-Place Pliers"
 excerpt: "A pair of pliers designed to be printed as one multimaterial file capable of picking up small objects like resistors."
 header:
-  image: assets/img/Pliers_Top.JPG
-  teaser: assets/img/Pliers_Assembly_Rendering.png
+  image: /assets/img/Pliers_Top.JPG
+  teaser: /assets/img/Pliers_Assembly_Rendering.png
 gallery:
-  - image_path: assets/img/Pliers_Closed.JPG
-  - image_path: assets/img/Pliers_Jaws.JPG
-  - image_path: assets/img/Pliers_Dovetail_It1.JPG
-  - image_path: assets/img/Pliers_Dovetail_It2.JPG
-  - image_path: assets/img/Pliers_It1.JPG
+  - image_path: /assets/img/Pliers_Closed.JPG
+  - image_path: /assets/img/Pliers_Jaws.JPG
+  - image_path: /assets/img/Pliers_Dovetail_It1.JPG
+  - image_path: /assets/img/Pliers_Dovetail_It2.JPG
+  - image_path: /assets/img/Pliers_It1.JPG
 
 # Table of Conents
 toc: true
@@ -35,7 +35,7 @@ The goal of this project was to design multi-material, print-in-place pliers tha
 
 
 # Demonstration 
-![Pliers GIF](assets/img/Pliers_GIF.GIF) 
+![Pliers GIF](/assets/img/Pliers_GIF.GIF) 
 
 
 
