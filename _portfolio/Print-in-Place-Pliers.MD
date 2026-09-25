@@ -91,4 +91,4 @@ The goal of this project was to design multi-material, print-in-place pliers tha
   
 # Image Gallery 
 
-{% include gallery caption="In order (left to right; top to bottom): Final Iteration Pliers, Final Iteration Jaws, Dovetail Test 1, Dovetail Test 2, and Iteration 1 Pliers" %}
+{% include gallery caption="In order (left to right, top to bottom): Final Iteration Pliers, Final Iteration Jaws, Dovetail Test 1, Dovetail Test 2, and Iteration 1 Pliers" %}
