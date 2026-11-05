@@ -1,6 +1,6 @@
 ---
-title: "Print-in-Place Pliers"
-excerpt: "A pair of pliers designed to be printed as one multimaterial file capable of picking up small objects like resistors."
+title: "Microfluidic Particle Separator"
+excerpt: "A microfluidic device that uses enhanced pinch flow to separate particles of different sizes."
 header:
   image: /assets/img/Pliers_Top.JPG
   teaser: /assets/img/Pliers_Assembly_Rendering.png
